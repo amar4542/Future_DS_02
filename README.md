@@ -42,7 +42,7 @@ The goal is to provide clear, actionable insights for optimizing social media ma
 
 ## 🖥 Dashboard Preview  
 
-[![Preview Dashboard](https://img.shields.io/badge/VIEW-DASHBOARD-Redstyle=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/amar4542/Future_DS_02/blob/main/Snapshot%20of%20Social%20Media%20Campaign%20Performance.png)
+[![Preview Dashboard](https://img.shields.io/badge/VIEW-DASHBOARD-Blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/amar4542/Future_DS_02/blob/main/Snapshot%20of%20Social%20Media%20Campaign%20Performance.png)
 
 ---
 
