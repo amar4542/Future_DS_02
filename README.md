@@ -34,17 +34,17 @@ The goal is to provide clear, actionable insights for optimizing social media ma
 
 ## 🔘 Access the Project
 
-<p align="left">
-  <a href="https://github.com/amar4542/Future_DS_02/tree/main/Task%202%20Dataset" target="_blank">
-    <img src="https://img.shields.io/badge/📥 Download-Dataset-green?style=for-the-badge" alt="Download Dataset" />
-  </a>
-  <a href="https://your-dashboard-download-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/📊 Download-Dashboard-blue?style=for-the-badge" alt="Download Dashboard" />
-  </a>
-  <a href="https://your-live-dashboard-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 View-Live Dashboard-orange?style=for-the-badge" alt="View Live Dashboard" />
-  </a>
-</p>
+### 📊 Dataset  
+[![Download Dataset](https://img.shields.io/badge/DOWNLOAD-DATASET-yellow?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/amar4542/Business-Sales/raw/main/superstore.xls)
+
+### 📈 Dashboard  
+[![Download Dashboard](https://img.shields.io/badge/DOWNLOAD-DASHBOARD-brightgreen?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/amar4542/Future_DS_01/raw/main/Future%20Interns%20Task%201.pbit)
+
+---
+
+## 🖥 Dashboard Preview  
+
+[![Preview Dashboard](https://img.shields.io/badge/VIEW-DASHBOARD-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/amar4542/Future_DS_01/blob/main/Snapshot%20of%20Business%20Sales.png)
 
 ---
 
