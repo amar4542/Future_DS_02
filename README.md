@@ -60,7 +60,8 @@ The dashboard shows product sales distribution across major regions:
 
 ## 🛠 Tools & Technologies Used
 
-- **Power BI** 
+- **Power BI**
+- **Excel**
 - Microsoft Bing Maps
 - Custom Visuals and Filters
 ---
