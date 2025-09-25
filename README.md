@@ -25,31 +25,10 @@ The goal is to provide clear, actionable insights for optimizing social media ma
 
 - **Sum of Impressions:** `213M`  
 - **Sum of Products Sold:** `2M`  
-- **Clicks by Age Groups:** 30–34, 35–39, 40–44, 45–49  
-- **Conversion Rate Leader:** Age group 30–34  
-- **Top Performing Regions:** North America, Europe, Australia  
-- **Channels Tracked:** Google, TV, Billboards, Social Media, Affiliates, etc.
-
----
-
-## 🌍 Geographic Insights
-
-The dashboard shows product sales distribution across major regions including:
-
-- North America
-- Europe
-- Asia
-- Australia
-- Africa
-
----
-
-## 🛠 Tools & Technologies Used
-
-- **Power BI** *(or Tableau/Excel – update as needed)*
-- Microsoft Bing Maps
-- Custom Visuals and Filters
-- Data from Ads Platforms, CRM, Web Analytics
+- **Top Converting Age Group:** 30–34  
+- **Most Clicks:** Age 45–49  
+- **Top Regions:** North America, Europe, Australia  
+- **Ad Types:** Google, TV, Billboard, Affiliates, Social Media
 
 ---
 
@@ -69,21 +48,41 @@ The dashboard shows product sales distribution across major regions including:
 
 ---
 
+## 🌍 Geographic Insights
+
+The dashboard shows product sales distribution across major regions:
+
+- North America
+- Europe
+- Asia
+- Australia
+- Africa
+
+---
+
+## 🛠 Tools & Technologies Used
+
+- **Power BI** *(or Tableau / Excel — update as needed)*
+- Microsoft Bing Maps
+- Custom Visuals and Filters
+- Data from Ad Platforms, CRM, Web Analytics
+
+---
+
 ## 📁 Files Included
 
-- `📷 Dashboard Screenshot` — `c3087411-831b-4815-943a-47800732ed94.png`
-- `📊 Dashboard File` — `.pbix` / `.twbx` / `.xlsx`
-- `📄 Dataset File` — `.csv` / `.xlsx`
+- `📷 Screenshot`: `c3087411-831b-4815-943a-47800732ed94.png`
+- `📊 Dashboard File`: `.pbix` / `.twbx` / `.xlsx`
+- `📄 Dataset File`: `.csv` / `.xlsx`
 
 ---
 
 ## 💡 Use Cases
 
-- Campaign performance tracking
-- Target audience analysis
-- Regional ad spend optimization
-- Channel effectiveness comparison
-- Marketing ROI analysis
+- Marketing performance reporting
+- Audience targeting insights
+- Campaign optimization
+- ROI analysis
 
 ---
 
