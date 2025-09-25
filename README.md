@@ -2,8 +2,6 @@
 
 A comprehensive dashboard for tracking and analyzing the performance of social media marketing campaigns across different platforms, demographics, and countries.
 
-![Dashboard Screenshot](c3087411-831b-4815-943a-47800732ed94.png)
-
 ---
 
 ## 📌 Project Overview
@@ -35,16 +33,16 @@ The goal is to provide clear, actionable insights for optimizing social media ma
 ## 🔘 Access the Project
 
 ### 📊 Dataset  
-[![Download Dataset](https://img.shields.io/badge/DOWNLOAD-DATASET-yellow?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/amar4542/Future_DS_02/tree/main/Task%202%20Dataset)
+[![Download Dataset](https://img.shields.io/badge/DOWNLOAD-DATASET-lightblue?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/amar4542/Future_DS_02/tree/main/Task%202%20Dataset)
 
 ### 📈 Dashboard  
-[![Download Dashboard](https://img.shields.io/badge/DOWNLOAD-DASHBOARD-brightgreen?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/amar4542/Future_DS_02/raw/main/Future_DS_02.pbit)
+[![Download Dashboard](https://img.shields.io/badge/DOWNLOAD-DASHBOARD-brightellow?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/amar4542/Future_DS_02/raw/main/Future_DS_02.pbit)
 
 ---
 
 ## 🖥 Dashboard Preview  
 
-[![Preview Dashboard](https://img.shields.io/badge/VIEW-DASHBOARD-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/amar4542/Future_DS_01/blob/main/Snapshot%20of%20Business%20Sales.png)
+[![Preview Dashboard](https://img.shields.io/badge/VIEW-DASHBOARD-Red?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/amar4542/Future_DS_02/blob/main/Snapshot%20of%20Social%20Media%20Campaign%20Performance.png)
 
 ---
 
@@ -52,9 +50,9 @@ The goal is to provide clear, actionable insights for optimizing social media ma
 
 The dashboard shows product sales distribution across major regions:
 
+- Asia
 - North America
 - Europe
-- Asia
 - Australia
 - Africa
 
@@ -66,14 +64,6 @@ The dashboard shows product sales distribution across major regions:
 - Microsoft Bing Maps
 - Custom Visuals and Filters
 - Data from Ad Platforms, CRM, Web Analytics
-
----
-
-## 📁 Files Included
-
-- `📷 Screenshot`: `c3087411-831b-4815-943a-47800732ed94.png`
-- `📊 Dashboard File`: `.pbix` / `.twbx` / `.xlsx`
-- `📄 Dataset File`: `.csv` / `.xlsx`
 
 ---
 
