@@ -36,13 +36,13 @@ The goal is to provide clear, actionable insights for optimizing social media ma
 [![Download Dataset](https://img.shields.io/badge/DOWNLOAD-DATASET-lightblue?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/amar4542/Future_DS_02/tree/main/Task%202%20Dataset)
 
 ### 📈 Dashboard  
-[![Download Dashboard](https://img.shields.io/badge/DOWNLOAD-DASHBOARD-brightellow?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/amar4542/Future_DS_02/raw/main/Future_DS_02.pbit)
+[![Download Dashboard](https://img.shields.io/badge/DOWNLOAD-DASHBOARD-BrightYellow?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/amar4542/Future_DS_02/raw/main/Future_DS_02.pbit)
 
 ---
 
 ## 🖥 Dashboard Preview  
 
-[![Preview Dashboard](https://img.shields.io/badge/VIEW-DASHBOARD-Red?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/amar4542/Future_DS_02/blob/main/Snapshot%20of%20Social%20Media%20Campaign%20Performance.png)
+[![Preview Dashboard](https://img.shields.io/badge/VIEW-DASHBOARD-Redstyle=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/amar4542/Future_DS_02/blob/main/Snapshot%20of%20Social%20Media%20Campaign%20Performance.png)
 
 ---
 
