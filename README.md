@@ -36,7 +36,7 @@ The goal is to provide clear, actionable insights for optimizing social media ma
 [![Download Dataset](https://img.shields.io/badge/DOWNLOAD-DATASET-lightblue?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/amar4542/Future_DS_02/tree/main/Task%202%20Dataset)
 
 ### 📈 Dashboard  
-[![Download Dashboard](https://img.shields.io/badge/DOWNLOAD-DASHBOARD-Amber?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/amar4542/Future_DS_02/raw/main/Future_DS_02.pbit)
+[![Download Dashboard](https://img.shields.io/badge/DOWNLOAD-DASHBOARD-red?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/amar4542/Future_DS_02/raw/main/Future_DS_02.pbit)
 
 ---
 
